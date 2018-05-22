@@ -1,9 +1,10 @@
 # code your #position_taken? method here!
 
-def position_taken(array, index)
+def position_taken?(board, index)
+  
   if array[index] = " "
     false
-  else
+  elsif arra
     true
   end
 end
